@@ -1,2 +1,4 @@
 Nice here, maybe a bit red.
 Wolfman might be in trouble with 2 moons.
+A third line.
+Additional line to call make HEAD~2 to work
